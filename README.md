@@ -23,6 +23,7 @@ Version 2.00 of the MATCODE Compressor has been released on 21st March 2009, now
 * Full Windows 9x/NT/2000/XP/2003/Vista/2008/Windows8 compatibility
 
 **Operating Systems:** Windows 9x/NT/2000/XP/2003/Vista/2008/Windows7, MAC-OS 10.3/10.4
+
 **Platforms:** x86(PE32), x64(PE32+,AMD64), .NET
 
 Copyright © 1997-2008, MATCODE Software
